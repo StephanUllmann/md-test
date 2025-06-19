@@ -90,6 +90,7 @@ Contact
 Your Name / Project Maintainer - your.email@example.com
 
 Project Link: https://github.com/your-username/space-explorer
+blablabla
 
 Acknowledgements
 Inspired by classic arcade space games.
