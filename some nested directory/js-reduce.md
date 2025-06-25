@@ -19,7 +19,9 @@ This method is very versatile and can be used for a variety of tasks such as tra
 - **Summation**: Summing up numbers in an array.
 - **Counting occurrences**: Counting instances of values in an object.
 
+//
 [https://playground.wbscod.in/static/javascript-arrays-ii/7](https://playground.wbscod.in/static/javascript-arrays-ii/7)
+//
 
 ```javascript
 // Array of numbers
