@@ -18,7 +18,6 @@ This method is very versatile and can be used for a variety of tasks such as tra
 - **Data transformation**: Transforming an array of objects into a different format.
 - **Summation**: Summing up numbers in an array.
 - **Counting occurrences**: Counting instances of values in an object.
-- **Flux Coversion**
 
 
 //
